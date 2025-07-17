@@ -3,6 +3,9 @@
 **Universidad Cooperativa de Colombia, Sede Medellín**  
 *Sistema Integral de Evaluación de Competencias (SIEC) - Período 2016-2024*
 
+# Diseño del instrumento
+[![instrumento visual ]([https://img.shields.io/badge/Análisis-Completo-green.svg)](https://github.com/usuario/analisis-siec-medicina](https://claude.ai/public/artifacts/90f79a0b-dd7f-4b28-92a7-c01b35b5f3e1))
+
 [![Análisis Completo](https://img.shields.io/badge/Análisis-Completo-green.svg)](https://github.com/usuario/analisis-siec-medicina)
 [![Evaluaciones](https://img.shields.io/badge/Evaluaciones-15.088-blue.svg)](https://github.com/usuario/analisis-siec-medicina)
 [![Estudiantes](https://img.shields.io/badge/Estudiantes-2.003-orange.svg)](https://github.com/usuario/analisis-siec-medicina)
